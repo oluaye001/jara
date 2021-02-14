@@ -1,0 +1,178 @@
+/*navigation*/
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    }
+    
+   .seperate{
+       font-weight: 800;
+       
+       
+   }
+  .man{
+      font-size: 25px;
+     
+  }
+    .goat{
+        font-weight: bold;
+        font-family: cursive;
+        font-size: 30px;   
+        padd
+     }
+    header{
+        background:url(bg2.jpg);
+        height:70vh;
+    }
+    .jjj{
+        font-weight: 800;
+        font-size: 30px;
+        padding-top: 50px;
+    }
+    
+    .book{
+        font-size: 10px;
+    }
+    .mumuscholar{
+        font-size: 20px;
+        
+    }
+    .next{
+        background: url(bg2.jpg);
+        height: 80vh;
+    }
+    .cont{
+        font-size: 23px;
+    }
+.band{
+    padding-left: 60px;
+}
+.come{
+    height: 10vh;
+}
+.and{
+    padding-left: 48px;
+}
+.mad{
+    font-size: 15px;
+    padding-top: 50px;
+}
+.bbb{
+    font-weight: bolder;
+    margin-top: 80px;
+}
+.nn{
+    font-size: 20px;
+    font-weight: lighter;
+}
+.paint{
+    border-top: 4px solid #17bebb;
+    height: 65vh;
+}
+.pele{
+    font-size: 15px;
+    padding-left: 40px;
+    padding-top: 20px;
+    font-weight: bold;
+}
+.mumus{
+    font-size: 15px;
+    padding-left: 40px;
+
+}
+.cares{
+    padding-left:40px ;
+    font-size: 15px;
+}
+.bolf{
+    padding-left: 40px;
+    font-size: 15px;
+    font-weight: normal;
+}
+.btn-pig{
+    background: purple;
+    color:black;
+    font-weight: bold;
+    
+}
+.buy{
+    padding-right:100px;
+    padding-left: 40px;
+    padding-top: 70px;
+}
+.btn-pig{
+    padding-top: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 10px;
+}
+.ggg{
+padding-left: 40px;
+font-size: 15px;
+font-weight: normal;
+}
+.exp{
+    font-size: 100px;
+    color: blanchedalmond;
+}
+.bint{
+    border: 0.1px solid black;
+}
+.lie{
+    padding-left: 30px    ;
+}
+.not{
+    font-size: 15px;
+    padding-left: 50px;
+    
+    
+}
+.uu{
+    border-left: 0.1px solid black;
+    border-right: 0.1px solid black;
+}
+.nnnn{
+    font-weight: 500;   
+}
+.hhh{
+    font-size: 12px;
+    padding-left: 40px;
+
+}
+.most{
+    background:whitesmoke;
+    height:80vh;
+}
+.money{
+    font-size: 15px;
+    font-weight: bold;
+}
+.vee{
+    border-bottom: 0.1px solid black;
+}
+.get{
+    background:whitesmoke;
+}
+.btn-vvv{
+    font-weight: bold;
+}
+.pulisic{
+    background: navy;
+    height: 85vh;
+}
+.ooo{
+    padding-top: 150px;
+    font-size: 15px;
+   color: grey;
+}
+.owo{
+    font-size: 15px;
+}
+.sss{
+    font-size: 12px;
+    padding-top: 150px;
+    
+}
+.ghg{
+    padding-top: 150px;
+}
