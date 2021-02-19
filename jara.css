@@ -6,9 +6,7 @@
     }
     
    .seperate{
-       font-weight: 800;
-       
-       
+       font-weight: 800;   
    }
   .man{
       font-size: 25px;
@@ -18,7 +16,6 @@
         font-weight: bold;
         font-family: cursive;
         font-size: 30px;   
-        padd
      }
     header{
         background:url(bg2.jpg);
@@ -35,7 +32,7 @@
     }
     .mumuscholar{
         font-size: 20px;
-        
+    
     }
     .next{
         background: url(bg2.jpg);
@@ -175,4 +172,7 @@ font-weight: normal;
 }
 .ghg{
     padding-top: 150px;
+}
+.fareez{
+    padding-top: 30px;
 }
